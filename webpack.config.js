@@ -1,7 +1,7 @@
 module.exports = {
     mode: 'development',
     devtool: 'none',
-    entry: './src/index.js',
+    entry: './src/index.jsx',
     output: {
         filename: 'dist/bundle.js'
     },

@@ -8,6 +8,10 @@
     "build": "webpack",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+git@github.com:ivanpchelnikov/HtmlTestes.git"
+},
   "author": "",
   "license": "ISC",
   "devDependencies": {
